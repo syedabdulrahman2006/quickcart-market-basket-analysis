@@ -80,8 +80,8 @@ quickcart-market-basket/
 
 ## Connect With Me
 
-- **GitHub:** https://github.com/syedabdulrahman2006/quickcart-market-basket-analysis.git
-- **LinkedIn:** https://lnkd.in/p/d-7pzdkz
+- **GitHub:** https://github.com/syedabdulrahman2006/quickcart-market-basket-analysis
+- **LinkedIn:** https://lnkd.in/p-d-7pzdK
 
 ---
 
