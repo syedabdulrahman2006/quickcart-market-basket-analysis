@@ -77,3 +77,12 @@ quickcart-market-basket/
 ├── quickcart_strong_rules.csv
 ├── QuickCart_MarketBasket_Project_Spec.pdf
 └── README.md
+
+## Connect With Me
+
+- **GitHub:** https://github.com/syedabdulrahman2006/quickcart-market-basket-analysis.git
+- **LinkedIn:** https://lnkd.in/p/d-7pzdkz
+
+---
+
+**Made by Syed Abdul Rahman**
