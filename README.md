@@ -77,6 +77,7 @@ quickcart-market-basket/
 ├── quickcart_strong_rules.csv
 ├── QuickCart_MarketBasket_Project_Spec.pdf
 └── README.md
+```
 
 ## Connect With Me
 
